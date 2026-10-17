@@ -22,7 +22,6 @@ A machine learning project that predicts whether a machine will fail from its se
 ## Dataset
 Link'https://www.kaggle.com/kernels/fork-version/310730991'
 
-مهى
 It is a synthetic dataset that imitates real industrial data.
 
 | Column | Description | Used as feature |
